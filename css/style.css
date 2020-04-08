@@ -1,0 +1,43 @@
+.heading{
+    color:brown;
+    background-color: coral;
+    text-align: center;
+    font-size: 20px;
+    text-decoration :underline;
+}
+
+#para{
+    background-color: cyan;
+    margin:5px 10px;
+    padding:5px;
+    border-width: 3px;
+    border-color: red; 
+    border-style: solid;
+    text-transform: lowercase;
+}
+
+ul{
+   padding:10px;
+   list-style: square; 
+}
+
+a{
+    text-decoration: none;
+    color:red;
+}
+
+a:hover{
+    color:yellow;
+}
+
+a:active{
+    color:blue;
+}
+
+/* a:visited{
+    color:black;
+} */
+ li{
+     padding-bottom: 8px;
+     border-bottom:dotted 1px #333;
+ }
